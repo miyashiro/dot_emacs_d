@@ -1,0 +1,1 @@
+("~/pj/mazrica/sense-api/" "~/.emacs.d/" "~/pj/mazrica/sense-web/")
