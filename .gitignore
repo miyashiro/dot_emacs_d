@@ -1,0 +1,13 @@
+auto-save-list/*
+.scratch*
+ac-comphist.dat
+var/*
+url/*
+
+.cask/*
+
+eshell
+
+.mc-lists.el
+ido.last
+ensime/
